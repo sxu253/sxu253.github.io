@@ -1,4 +1,5 @@
 body {
+    font-family: 'Work Sans', sans-serif;
     margin: 60px auto;
     width: 70%;
 }
@@ -25,7 +26,7 @@ h1 {
 }
 p {
     font-family: 'Work Sans', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #05bc8b;
 }
