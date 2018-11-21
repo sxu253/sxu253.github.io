@@ -32,6 +32,12 @@ h2 {
     font-family: 'Work Sans', sans-serif;
 }
 
+.title {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.5em;
+    color: #2e8965;
+}
+
 p {
     font-family: 'Work Sans', sans-serif;
     font-size: 1.1em;
