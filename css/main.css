@@ -24,6 +24,12 @@ h1 {
     font-size: 3em;
     font-family: 'Work Sans', sans-serif;
 }
+
+h2 {
+    font-size: 2em;
+    font-family: 'Work Sans', sans-serif;
+}
+
 p {
     font-family: 'Work Sans', sans-serif;
     font-size: 1.2em;
