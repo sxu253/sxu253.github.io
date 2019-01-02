@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+headerSub {
+    font-size: 1rem;
+    font-weight: 400;
+}
 
 header {
   padding: 154px 0 100px;
