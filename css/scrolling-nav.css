@@ -18,7 +18,7 @@ test {
 header {
   padding: 154px 0 100px;
   /*background-color: teal;*/
-  background-image: "palmleaves.jpg";
+  background-image: url("palmleaves.jpg");
 
 }
 
