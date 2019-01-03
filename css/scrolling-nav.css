@@ -7,11 +7,14 @@
 headerSub {
     font-size: 1rem;
     font-weight: 400;
+    background-color: "#42c5f4";
 }
 
 test {
     background-color: "#42c5f4";
 }
+
+
 header {
   padding: 154px 0 100px;
 
