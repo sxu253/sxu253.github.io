@@ -9,9 +9,12 @@ headerSub {
     font-weight: 400;
 }
 
+test {
+    background-color: "#42c5f4";
+}
 header {
   padding: 154px 0 100px;
-  background-color: "#42c5f4";
+
 }
 
 @media (min-width: 992px) {
