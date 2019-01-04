@@ -6,9 +6,10 @@
 
 #about:hover {
   color: white;
+  background-color: teal;
 }
 #container:hover{
-  background-color: teal;
+
 }
 
 #headerSub {
