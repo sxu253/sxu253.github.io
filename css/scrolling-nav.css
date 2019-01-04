@@ -54,7 +54,7 @@ h1 {
 }
 
 .header :hover.overlay {
-  opacity: 1;
+  opacity: .5;
 }
 
 header {
