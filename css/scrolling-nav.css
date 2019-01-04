@@ -50,11 +50,11 @@ h1 {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: #2FBC81;
 }
 
 .header :hover.overlay {
-  opacity: .5;
+  opacity: .8;
 }
 
 header {
