@@ -6,11 +6,11 @@
 
 #about:hover {
   color: white;
-  background-color: mediumseagreen;
+  background-color: #2FBC81;
 }
 
 #about {
-  color: mediumseagreen;
+  color: #2FBC81;
   background-color: white;
 }
 
@@ -38,7 +38,7 @@ h1 {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
-  opacity: 0;
+  opacity: 100;
 }
 
 .overlay {
