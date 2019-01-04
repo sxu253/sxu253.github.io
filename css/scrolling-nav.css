@@ -4,6 +4,19 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+ table, td, th {
+   text-align: left;
+ }
+
+ table {
+   border-collapse: collapse;
+   width: 100%;
+ }
+
+ th, td {
+   padding: 15px;
+ }
+
 #about:hover {
   color: white;
   background-color: #2FBC81;
