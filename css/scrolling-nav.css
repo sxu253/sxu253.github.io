@@ -5,9 +5,10 @@
  */
 
 #about:hover {
-  background-color: indigo;
   color: white;
-
+}
+#aboutSection:hover{
+  background-color: indigo;
 }
 
 #headerSub {
