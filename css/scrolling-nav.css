@@ -15,17 +15,18 @@
  th, td {
    padding: 10px;
    letter-spacing: 1px;
-   border-bottom: 1px solid #2FBC81;
  }
 
 #about:hover {
   color: white;
   background-color: #2FBC81;
+  letter-spacing: 1px;
 }
 
 #about {
   color: #2FBC81;
   background-color: white;
+  letter-spacing: 1px;
 }
 
 .aboutBody{
