@@ -14,19 +14,19 @@
 
  th, td {
    padding: 10px;
-   letter-spacing: 1px;
+   letter-spacing: .7px;
  }
 
 #about:hover {
   color: white;
   background-color: #2FBC81;
-  letter-spacing: 1px;
+  letter-spacing: .7px;
 }
 
 #about {
   color: #2FBC81;
   background-color: white;
-  letter-spacing: 1px;
+  letter-spacing: .7px;
 }
 
 .aboutBody{
