@@ -4,6 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+#about:hover {
+  background-color:rgb(37, 116, 77);
+  color: white;
+
+}
 
 #headerSub {
     font-size: 1rem;
