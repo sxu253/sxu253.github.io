@@ -6,11 +6,12 @@
 
 #about:hover {
   color: white;
-  background-color: orange;
+  background-color: mediumseagreen;
 }
 
 #about {
-   background-color: seafoam;
+  color: mediumseagreen;
+  background-color: white;
 }
 
 .aboutBody{
