@@ -36,9 +36,10 @@ img.paintProgram {
 div.headerText {
   font-family: 'Noto Serif TC', serif;
   padding: 0px 0;
-  background-color: #FFF:
+  background-color: white;
   opacity: 0.5;
   width: 60%;
+  margin: auto;
 }
 
 h1.headerTwoText{
