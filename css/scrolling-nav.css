@@ -32,6 +32,10 @@ div.headerText {
   font-family: 'Noto Serif TC', serif;
 }
 
+h1.headerTwoText{
+  font-family: 'Noto Serif TC', serif;
+}
+
  table, td, th {
    text-align: left;
  }
