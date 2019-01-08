@@ -41,7 +41,6 @@ div.headerText {
 
 h1.headerTwoText{
   font-family: 'Noto Serif TC', serif;
-  color: #FFC402;
 }
 
  table, td, th {
@@ -116,7 +115,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    color: white;
+    color: #FFC402;
 }
 
 
