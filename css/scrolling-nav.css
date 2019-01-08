@@ -39,7 +39,7 @@ div.headerText {
   background-color: white;
   opacity: 0.95;
   width: 60%;
-  margin: auto;
+  margin: auto 10px auto 10px;
   padding: 10px;
 }
 
