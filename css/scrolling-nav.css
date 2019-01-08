@@ -12,6 +12,23 @@ img.roadRage {
   margin-right: auto;
 }
 
+img.bookstore {
+  height: auto;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.paintProgram {
+  height: auto;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
  table, td, th {
    text-align: left;
  }
