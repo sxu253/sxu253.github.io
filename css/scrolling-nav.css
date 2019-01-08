@@ -102,9 +102,10 @@ h1.headerTwoText{
   background-color: #2FBC81;
 }
 
+/*
 .header :hover.overlay {
   opacity: .95;
-}
+}  */
 
 header {
     padding: 154px 0 100px;
