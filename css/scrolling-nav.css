@@ -37,9 +37,10 @@ div.headerText {
   font-family: 'Noto Serif TC', serif;
   padding: 0px 0;
   background-color: white;
-  opacity: 0.9;
+  opacity: 0.95;
   width: 60%;
   margin: auto;
+  padding: 10px;
 }
 
 h1.headerTwoText{
