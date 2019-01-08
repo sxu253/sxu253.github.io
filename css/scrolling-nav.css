@@ -4,6 +4,12 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+img.roadRage {
+  height: 50%;
+  width: 50%;
+}
+
+
  table, td, th {
    text-align: left;
  }
