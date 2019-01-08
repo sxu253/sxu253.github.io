@@ -89,6 +89,7 @@ h1.headerTwoText{
   opacity: 100;
 }
 
+/*
 .overlay {
   position: absolute;
   top: 0;
@@ -102,7 +103,7 @@ h1.headerTwoText{
   background-color: #2FBC81;
 }
 
-/*
+
 .header :hover.overlay {
   opacity: .95;
 }  */
