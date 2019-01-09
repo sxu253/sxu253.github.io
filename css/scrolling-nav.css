@@ -37,8 +37,8 @@ div.headerText {
   font-family: 'Noto Serif TC', serif;
   padding: 0px 0;
   background-color: white;
-  opacity: 0.95;
-  width: 50%;
+  opacity: 0.8;
+  width: 100%;
   margin: 0px auto 10px auto;
   padding: 10px;
 }
