@@ -62,12 +62,12 @@ h1.headerTwoText{
 
 #about:hover {
   color: white;
-  background-color: #2FBC81;
+  background-color: #16A085;
   letter-spacing: .7px;
 }
 
 #about {
-  color: #2FBC81;
+  color: #16A085;
   background-color: white;
   letter-spacing: .7px;
 }
@@ -121,7 +121,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    color: #FFC402;
+    color: #16A085;
 }
 
 
