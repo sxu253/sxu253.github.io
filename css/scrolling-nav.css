@@ -40,12 +40,12 @@ div.headerText {
   width: 65%;
   margin: 0px auto 10px auto;
   padding: 10px;
-  color: black;
+  color: white;
 }
 
 h1.headerTwoText{
   font-family: 'Noto Serif TC', serif;
-  color: black;
+  color: white;
 }
 
  table, td, th {
@@ -81,7 +81,9 @@ h1.headerTwoText{
     font-size: 1rem;
     font-weight: 400;
 }
-
+.overlay{
+  margin: 12em 0em 12em 0;
+}
 .text {
   color: white;
   font-size: 20px;
@@ -115,7 +117,6 @@ h1.headerTwoText{
 }  */
 
 header {
-    padding: 50% 0 50% 0;
     background-image: url("/smoke.jpg");
     height: 50em;
     background-position: center;
