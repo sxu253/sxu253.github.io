@@ -46,6 +46,7 @@ div.headerText {
 h1.headerTwoText{
   font-family: 'Noto Serif TC', serif;
   color: white;
+  font-size: 4em;
 }
 
  table, td, th {
@@ -78,11 +79,11 @@ h1.headerTwoText{
 }
 
 #headerSub {
-    font-size: 1rem;
-    font-weight: 400;
+  font-size: 1rem;
+  font-weight: 400;
 }
 .overlay{
-  margin: 12em 0em 12em 0;
+  padding: 15em 0em 10em 0em;
 }
 .text {
   color: white;
