@@ -36,7 +36,6 @@ img.paintProgram {
 div.headerText {
   font-family: 'Noto Serif TC', serif;
   padding: 0px 0;
-  background-color: white;
   /*opacity: 0.8; */
   width: 65%;
   margin: 0px auto 10px auto;
@@ -116,9 +115,9 @@ h1.headerTwoText{
 }  */
 
 header {
-    padding: 154px 0 100px;
+    padding: 50% 0 50% 0;
     background-image: url("/smoke.jpg");
-    height: 400px;
+    height: 50em;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
